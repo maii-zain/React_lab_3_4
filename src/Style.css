@@ -1,0 +1,10 @@
+/* Add this to your styles */
+.orange-button {
+    background-color: orange;
+    color: white; /* Set text color to white for better visibility */
+  }
+  
+  .orange-button:hover {
+    background-color: darkorange; /* Change the color on hover if desired */
+  }
+  
